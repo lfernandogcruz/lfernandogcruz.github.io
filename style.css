@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Montserrat:wght@300&family=Rock+Salt&display=swap');
+
+.title{
+    font-family: 'Rock Salt', cursive;
+    font-size: 54px;  
+    color: #005F73; 
+    text-shadow: 
+      4px 4px 0px #E9D8A6;
+}
+.subtitle {
+    font-family: 'Comforter', cursive;
+    font-weight: 900;
+    font-size: 46px;
+    color: #CA6702;
+    text-shadow: 
+      4px 4px 0px #E9D8A6;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    background-color: #94D2BD;
+    color: #001219;
+}
+strong {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+b {
+    font-size: 1.1em;
+}
+h4 {
+    font-family: 'Rock Salt', cursive;
+    color: #005F73;
+}
+s {
+    color: #EE9B00; 
+}
+a {
+    text-decoration: none;
+    color: #CA6702;
+    text-shadow: 
+      2px 2px 0px #E9D8A6;
+}
+.footer {
+    font-size: 1.05em;
+}
+#li1 {
+    font-size: 1.5em;
+}
+#li2 {
+    font-size: 1.25em;
+}
+#li3 {
+    font-size: 1.1em;
+}
+
+
+/* 
+color palette
+https://coolors.co/palette/001219-005f73-0a9396-94d2bd-e9d8a6-ee9b00-ca6702-bb3e03-ae2012-9b2226
+
+shadow base by Jorge Epuñan
+https://codepen.io/juanbrujo/pen/yGpAK
+
+*/
